@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/gabinfay/.conda/envs/py38/bin/python",
+    "python.linting.pylintArgs": [
+        "--init-hook='import sys; sys.path.append(\"~/Documents/Spotify\")'"
+    ]
+}
